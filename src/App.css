@@ -1,0 +1,14 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+.bestProduct{
+    background-color: #ff0000;
+    animation: clignote 2s linear infinite;
+
+   
+}
+@keyframes clignote{
+  
+    50%{
+       opacity: 0.5;
+    }
+   
+}
